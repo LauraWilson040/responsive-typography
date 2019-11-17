@@ -50,6 +50,7 @@ blockquote {
 }
 
 body {
+  margin: 1.3rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -66,12 +67,12 @@ article ol {
 
   html {
     font-family: "Crimson Red", sans-serif;
-    margin: 1.3rem;
     line-height: 1.5;
     font-size: 110%;
   }
 
   body {
+    margin: 1.3rem;
     padding-left: 1rem;
     padding-right: 1rem;
   }
@@ -82,12 +83,12 @@ article ol {
 
   html {
     font-family: "Crimson Red", sans-serif;
-    margin: 1.3rem;
     line-height: 1.5;
     font-size: 120%;
   }
 
   body {
+    margin: 1.3rem;
     padding-left: 1rem;
     padding-right: 1rem;
   }
@@ -98,11 +99,11 @@ article ol {
 
   html {
     font-family: "Crimson Red", sans-serif;
-    margin: 1.3rem;
     font-size: 130%;
   }
 
   body {
+    margin: 1.3rem;
     padding-left: 1rem;
     padding-right: 1rem;
   }
