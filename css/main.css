@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: "Crimson Text", sans-serif;
 
   color: #222;
 }
@@ -46,4 +47,55 @@ blockquote {
 
 .quote {
   color: #999;
+}
+
+@media only screen and (min-width: 38em) {
+
+  body {
+   margin: 1.125rem;
+   line-height: 1.5;
+   padding-left: 1rem;
+   padding-right: 1rem;
+ }
+
+  p {
+    font-family: "Crimson Red", sans-serif;
+    font-style: italic;
+    font-size: ;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  body {
+   margin: 1.125rem;
+   line-height: 1.5;
+   padding-left: 1rem;
+   padding-right: 1rem;
+ }
+
+  p {
+    font-family: "Crimson Red", sans-serif;
+    font-style: italic;
+    font-size: ;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  body {
+   margin: 1.125rem;
+   line-height: 1.5;
+   padding-left: 1rem;
+   padding-right: 1rem;
+ }
+
+  p {
+    font-family: "Crimson Red", sans-serif;
+    font-style: italic;
+    font-size: ;
+  }
+
 }
