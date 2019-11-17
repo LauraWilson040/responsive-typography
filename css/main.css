@@ -51,15 +51,19 @@ blockquote {
 
 @media only screen and (min-width: 38em) {
 
+  html {
+    font-family: "Crimson Red", sans-serif;
+    margin: 1.125rem;
+  }
+
   body {
-   margin: 1.125rem;
-   line-height: 1.3;
-   padding-left: 1rem;
-   padding-right: 1rem;
- }
+    margin: 1.125rem;
+    line-height: 1.3;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 
   p {
-    font-family: "Crimson Red", sans-serif;
     font-style: italic;
     font-size: 110%;
   }
@@ -68,15 +72,19 @@ blockquote {
 
 @media only screen and (min-width: 60em) {
 
+  html {
+    font-family: "Crimson Red", sans-serif;
+    margin: 1.125rem;
+  }
+
   body {
-   margin: 1.125rem;
-   line-height: 1.3;
-   padding-left: 1rem;
-   padding-right: 1rem;
- }
+    margin: 1.125rem;
+    line-height: 1.3;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 
   p {
-    font-family: "Crimson Red", sans-serif;
     font-style: italic;
     font-size: 120%;
   }
@@ -85,15 +93,19 @@ blockquote {
 
 @media only screen and (min-width: 90em) {
 
+  html {
+    font-family: "Crimson Red", sans-serif;
+    margin: 1.125rem;
+  }
+
   body {
-   margin: 1.125rem;
-   line-height: 1.3;
-   padding-left: 1rem;
-   padding-right: 1rem;
- }
+    margin: 1.125rem;
+    line-height: 1.3;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 
   p {
-    font-family: "Crimson Red", sans-serif;
     font-style: italic;
     font-size: 130%;
   }
