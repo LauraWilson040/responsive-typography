@@ -50,17 +50,18 @@ blockquote {
 }
 
 body {
-  margin: 1.3rem;
+  margin: .005rem .005rem 1.3rem;
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
 article p {
-
+  font-style: normal;
 }
 
 article ol {
-
+  font-style: normal;
+  text-align: left;
 }
 
 @media only screen and (min-width: 38em) {
